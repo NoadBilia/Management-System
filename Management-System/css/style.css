@@ -1,0 +1,37 @@
+#numpad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 400px;
+  width: 400px;
+  margin-left: 1036px;
+  margin-top: -407px;
+}
+
+#code {
+  text-align: center;
+}
+
+#username {
+  margin: 314px;
+  font-size: 16px;
+  margin-inline-start: 412px;
+  margin-inline-end: 0px;
+  position: fixed;
+}
+
+#button {
+  margin: 314px;
+  margin-inline-start: 636px;
+  position: fixed;
+}
+
+#hr {
+  width: 575px;
+  height: 1px;
+  background-color: blue;
+}
+
+#footer {
+  margin-inline-start: 766px;
+  font-size: 23px;
+}
